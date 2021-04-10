@@ -1,11 +1,11 @@
 
-     ![License](https://img.shields/io/badge/License--blue.svg "License Badge")
+     ![License](https://img.shields/io/badge/License-MIT-blue.svg "License Badge")
      
-     # adsfa
+     # ProReadMe Generator
 
      # Description
     
-    ewqeqwrq
+    generates readme files for projects
 
      # Table of Contents
 
@@ -17,22 +17,22 @@
      *[Questions](#email)
 
      # Installation
-     qfwqwe
+     inquirer and fs
 
      # Usage
-     vewqe
+     node index.js
 
      # License
-    
+    MIT
     
     
     # Contributors
-    weqfqfq
+    only me
      
     # Tests
-     qdqwdqw
+     N/A
     
     # Questions
-    eqweqw 
-    ewqe 
+    jramirezarroyo21@gmail.com
+    JR1994-CA
   
